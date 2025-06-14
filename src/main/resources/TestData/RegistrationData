@@ -1,0 +1,18 @@
+@Registration
+{
+HotelName:" Kanishk Hotel",
+HotelType:"Restaurant&Bar",
+PhoneNumber:"9922455175",
+EmailAddres:"",
+HotelAddress:"",
+TableNO:"",
+Pincode:"",
+City:"",
+State:"",
+Country:"",
+// Owner Infomation
+OwnerName:"",
+OwnerPhone:"",
+Password:"",
+ConfirmPassword:"";
+}
